@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Eschild3
 - 👀 I’m interested in expanding my knowledge of programming through projects and collaboration!
-- 🌱 I’m currently learning multithreaded programming in C.
-- 💞️ I’m looking to collaborate on any projects in Java, C, or Python.
-- 📫 How to reach me - you can reach out to me via my email: ejschild@gmail.com
+- 📫 How to reach me - you can reach out to me via my email: edward.schildnecht@gmail.com
